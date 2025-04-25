@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_aa1.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\aa1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_download.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_helth_article.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_helth_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_oip.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\oip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_calendar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_medicine_list_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\medicine_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_info.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_find_doctor2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_find_doctor2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_language.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\language.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_dentist.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\dentist.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_item_card.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_docter_details.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_docter_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_health1.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\health1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_surgeon.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\surgeon.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_th.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\th.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_back2.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_family_physicians.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\family_physicians.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_buy_medicine.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_buy_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_health_article_details.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_health_article_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_health2.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\health2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_dietician.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\dietician.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_search_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_search_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_health5.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\health5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_back1.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-debug-32:/layout_activity_home.xml.flat",
+        "source": "com.example.healthcare.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_health4.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\health4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_multilines.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\multilines.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\layout_activity_add_medicine.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\layout\\activity_add_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_bb2.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\bb2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_widgets.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\widgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_cardiologists.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\cardiologists.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-debug-32:\\drawable_health3.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.healthcare.app-main-34:\\drawable\\health3.jpeg"
+    }
+]
